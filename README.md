@@ -1,6 +1,6 @@
 👋 Hi, my name is Gregg.
 
-I'm a freelance web developer focusing primarily in WordPress. If you're looking to start a project you can find me at:
+I'm a freelance WordPress developer focusing primarily in backend development. If you're looking to start a project you can find me at:
 - [mynameisgregg.com](https://mynameisgregg.com)
 - [fragmentwebworks.com](https://fragmentwebworks.com)
 
